@@ -1,0 +1,147 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MiloOT-Bold
+FamilyName:Milo OT
+StyleName:Bold
+MenuName:MiloOT-Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:MiloOT-Bold
+WritingScript:Roman
+OutlineFileName:\MiloOT-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:67292
+FileModTime:1234275754
+NameArray:0,Mac,4,MiloOT-Bold
+NameArray:0,Win,1,MiloOT-Bold
+NameArray:0,Win,16,Milo OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MiloOT-Light
+FamilyName:Milo OT
+StyleName:Light
+MenuName:MiloOT-Light
+StyleBits:0
+WeightClass:350
+WidthClass:5
+AngleClass:0
+FullName:MiloOT-Light
+WritingScript:Roman
+OutlineFileName:\MiloOT-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:68864
+FileModTime:1234275770
+NameArray:0,Mac,4,MiloOT-Light
+NameArray:0,Win,1,MiloOT-Light
+NameArray:0,Win,16,Milo OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MiloOT-Medi
+FamilyName:Milo OT
+StyleName:Medium
+MenuName:MiloOT-Medi
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:MiloOT-Medi
+WritingScript:Roman
+OutlineFileName:\MiloOT-Medi.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:66944
+FileModTime:1234275768
+NameArray:0,Mac,4,MiloOT-Medi
+NameArray:0,Win,1,MiloOT-Medi
+NameArray:0,Win,16,Milo OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MiloOT-Xbold
+FamilyName:Milo OT
+StyleName:Extrabold
+MenuName:MiloOT-Xbold
+StyleBits:0
+WeightClass:750
+WidthClass:5
+AngleClass:0
+FullName:MiloOT-Xbold
+WritingScript:Roman
+OutlineFileName:\MiloOT-Xbold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:67648
+FileModTime:1234275764
+NameArray:0,Mac,4,MiloOT-Xbold
+NameArray:0,Win,1,MiloOT-Xbold
+NameArray:0,Win,16,Milo OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MiloOT
+FamilyName:Milo OT
+StyleName:Regular
+MenuName:MiloOT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:MiloOT
+WritingScript:Roman
+OutlineFileName:\MiloOT.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:64740
+FileModTime:1234275760
+NameArray:0,Mac,4,MiloOT
+NameArray:0,Win,1,MiloOT
+NameArray:0,Win,16,Milo OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1386836950
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
